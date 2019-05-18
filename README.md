@@ -2,6 +2,10 @@
 
 > vue quantum demo
 
+
+[Online demo](https://eelvex.github.io/quantum-vue/)
+
+
 ## Build Setup
 
 ``` bash
